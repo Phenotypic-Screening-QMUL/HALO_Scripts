@@ -8,5 +8,7 @@ HALO allows complex analysis of whole samples, annotated regions and single cell
 
 HALO can also be used for INCA images but a process must be gone through to generate the afi container files.
 
+Guides for following this code (along with the raw data) are available on the facility Teams Hub in the "04 - Bioinformatics Script Repository" folder.
+
 For bioinformatics support, contact Ryan Wallis at: phenotypic-screening@qmul.ac.uk
 
